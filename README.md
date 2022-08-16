@@ -7,4 +7,3 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=fdc114)](https://solved.ac/fdc114)
 
-<img src="http://mazandi.herokuapp.com/api?handle=fdc114&theme=warm"/>
