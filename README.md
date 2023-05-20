@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![dongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdehdgns1230&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **Contact**
 - actgong@gmail.com
