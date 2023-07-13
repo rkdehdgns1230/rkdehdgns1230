@@ -4,6 +4,9 @@
 **Contact**
 - actgong@gmail.com
 
+**Career**
+- SK Planet SWD Intern (2023.04.10 ~ 2023.07.07)
+
 **Blog**
 - https://kkkdh.tistory.com
 - https://blog.naver.com/book541
