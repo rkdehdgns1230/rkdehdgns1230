@@ -11,6 +11,12 @@
 - https://kkkdh.tistory.com
 - https://blog.naver.com/book541
 
+**SKills**
+- Back-end
+  - programming language: Java
+  - Framework: Spring
+  - DBMS: MySQL
+
 **BOJ Profile** 
 
 [![Solved.ac
