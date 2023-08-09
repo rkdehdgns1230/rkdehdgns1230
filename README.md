@@ -21,7 +21,7 @@
   - DBMS: MySQL
 - infra
   - docker
-  - git/github
+  - git
 
 **BOJ Profile** 
 
