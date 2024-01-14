@@ -9,6 +9,7 @@
 
 **Career**
 - SK Planet SWD Intern (2023.04 ~ 2023.07)
+- NCSOFT SDK developer (2024.01 ~ )
 
 **Tech Blog**
 - https://kkkdh.tistory.com
