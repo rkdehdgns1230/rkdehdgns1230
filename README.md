@@ -4,9 +4,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=fdc114)](https://solved.ac/fdc114)  
 
-### About Me
-[My Resume](https://atlantic-patient-6e2.notion.site/fb753c0efdb949c396e03b9010065221?pvs=4)
-
 **Career**
 |Org.| Team | Position | Date |
 |--------|---------------------|----------|---------|
