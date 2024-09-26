@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 ### SDK Developer
-- I work as an SDK developer at NCSOFT.
+- Currently working as an SDK developer at NCSOFT.
 
 ### Blog
 - https://kkkdh.tistory.com
@@ -13,5 +13,5 @@
 | NCSOFT | 크로스플랫폼 개발팀 | SDK developer | 2024.01 ~ |
 
 ### Interest
-- BackEnd Programming (with Java, Spring Framework...)
+- Server Programming (with Java, Spring Framework...)
 - Now I'm interested in Unity and C#.
